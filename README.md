@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on software development<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning cybersecurity!<br>💬 Ask me about software development<br>⚡ I'm a great teammate!
+🔭 I’m currently working as a Software developer at Stratech International<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning full stack web development!<br>💬 Ask me about software development<br>⚡ I'm a great teammate!
 
 
 ## 🌐 Socials:
