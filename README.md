@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Stratech International<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning fullstack web development<br>💬 Ask me about software development<br>
+🔭 I’m currently working as a software developer<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently enroled on the AWS Cloud Practitioner certification<br>💬 Ask me about software!<br>
 
 
 # 💻 Tech Stack:
